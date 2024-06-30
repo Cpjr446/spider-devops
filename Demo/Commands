@@ -1,3 +1,2 @@
 sudo su
-cd $base_dir
 ./manage_users.sh
